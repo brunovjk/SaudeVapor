@@ -1,0 +1,9 @@
+export { default as Home } from './Home';
+export { default as NotFound } from './NotFound';
+export { default as About } from './About';
+export { default as Search } from './Search';
+export { default as Post } from './Post';
+export { default as Token } from './Token';
+export { default as Terms } from './Terms';
+export { default as Contact } from './Contact';
+export { default as NFTCollection } from './NFTCollection';

@@ -1,0 +1,364 @@
+{
+    "SocialMediaLinks": {
+        "facebook": "https://www.facebook.com/SaudeVapor",
+        "twitter": "https://twitter.com/SaudeVapor",
+        "instagram": "https://www.instagram.com/saude_vapor"
+    },
+    "AdBanner": {
+        "subtitle": "Cannabis contains at least 49 active ingredients, or cannabinoids. Each NFT explores the effects of this component on our body.",
+        "title": "We Seek To Build A Strong Community",
+        "label": "SaudeVapor NFT"
+    },
+    "Footer": {
+        "menu": {
+            "about": "About",
+            "contact": "Contact",
+            "search": "Search",
+            "login": "Login"
+        },
+        "terms": "Terms of Use",
+        "copyright": "© 2022 SaudeVapor. All rights reserved."
+    },
+    "LanguageSelect": {
+        "select-language": "Select Language"
+    },
+    "Navbar": {
+        "drawer": {
+            "menu": {
+                "about": "About",
+                "search": "Search",
+                "contact": "Contact",
+                "myAccount": "My Account",
+                "login": "Login",
+                "blockchain": "Blockchain",
+                "terms": "Terms"
+            }
+        },
+        "toolbar": {
+            "menu": "Menu",
+            "tolltipAccountConfig": "Account Settings",
+            "myAccount": "My Account",
+            "contact": "Contact",
+            "logout": "Logout"
+        }
+    },
+    "Partners": {
+        "title": "Your contribution is vital for us to continue our important work.",
+        "text": "We couldn't succeed without supporters like you."
+    },
+    "ProposalCard": {
+        "success": "Success",
+        "ongoing": "In progress",
+        "rejected": "Rejected",
+        "proposer": "Proposer: "
+    },
+    "TokenCard": {
+        "tokenId": "Token ID: ",
+        "owner": "Owner: "
+    },
+    "About": {
+        "Hero": {
+            "label": "Our Mission",
+            "title1": "Provide information",
+            "title2": "Enabling Awareness of the Widest Use of Cannabis",
+            "subtitle": "Industrial, Medicinal Purposes, Responsible Use, etc. In order to expand the discussion on the topic."
+        },
+        "HubVision": {
+            "label": "Our Vision",
+            "title1": "Information and Education as a Basic Tool",
+            "title2": "For the Deconstruction and Demystification of Prejudices, Stigmas, Taboos.",
+            "subtitle": "On the Most Diverse Uses of the Plant in Our Culture and Their Social Representations."
+        },
+        "HubValues": {
+            "label": "Our Values",
+            "title1": "Deconstruction and Construction of Ideas and Concepts",
+            "title2": "Through Verified and Trusted Content",
+            "subtitle": "Awakening and Fostering Critical Thinking on the Topic and Providing Space for Dialogues and Discussions About the Cannabis World."
+        }
+    },
+    "Blockchain": {
+        "Hero": {
+            "title1": "Cannabis contains at least 49 active ingredients/cannabinoids, which provide diverse effects on our body",
+            "title2": "We created a Unique Collection, using these 49 components and their Main Characteristics and Possible Therapeutic Benefits",
+            "subtitle1": "All proceeds will be used to support the creation of more quality content on cannabis, harm reduction and",
+            "subtitle2": " health research*",
+            "popover1": "- 90% of the collection will be directed to Biomedcentral (https://jcannabisresearch.biomedcentral.com/)",
+            "popover2": "- 10% Remaining for the creation and implementation of an Autonomous Organization, with the same aim to gather quality content on cannabis, harm reduction and health research."
+        },
+        "Hub": {
+            "label": "Collection of 49 NFTs",
+            "title1": "Each NFT is unique ",
+            "title2": "and Represents A Cannabic Component.",
+            "subtitle": "This same collection of NFTs will be used to create a DAO on the Solana Blockchain itself. If you are interested in being part of this project, get your Token now.",
+            "connectBbutton": "CONNECT WALLET",
+            "connectedBbutton": "SOLANA WALLET"
+        },
+        "MintedTokens": {
+            "label": "SaudeVapor Blog",
+            "title": "Check out our latest Printed NFTs",
+            "loadingTitle": "Please wait",
+            "loadingSubtitle": "Loading Tokens"
+        },
+        "MintPreparation": {
+            "msg1": "Please sign the account setup transaction",
+            "msg2": "Setup transaction successful! Please sign mint transaction",
+            "msg3": "Minting failed! Please try again!",
+            "msg4": "Please sign the minting transaction",
+            "msg5": "Congratulations! Successfully Token Minted!",
+            "msg6": "Mint likely failed! SOL 0.01 anti-bot fee potentially charged! Check explorer to confirm mint failed, and if so, make sure you are eligible for mint before retrying .",
+            "msg7": "Transaction timed out! Please try again.",
+            "msg8": "SOLD OUT!",
+            "msg9": "The minting period has not started yet.",
+            "remaining": "Remaining",
+            "price": "Price"
+        }
+    },
+    "Contact": {
+        "form": {
+            "title": "Contact Us",
+            "text": "Send a message, we'll get back to you by email.",
+            "textField": {
+                "name": "Name",
+                "email": "Email",
+                "message": "Message"
+            },
+            "button": "Send"
+        },
+        "alert": {
+            "message": "Message sent successfully. We will respond as soon as possible "
+        }
+    },
+    "CreateAccount": {
+        "alert": {
+            "alert1": "Passwords do not match.",
+            "alert2": "Password must be at least 6 characters long.",
+            "alert3": "You must accept the terms.",
+            "alert4": "Unable to create your account.",
+            "alert5": "Failed to login with Google",
+            "alert6": "Failed to login with Facebook"
+        },
+        "form": {
+            "header": {
+                "title": "SaudeVapor Account",
+                "text": "Create your unique account for the entire SaudeVapor platform"
+            },
+            "textField": {
+                "email": "Email",
+                "password": "Password",
+                "passwordCheck": "Confirm Password"
+            },
+            "button": {
+                "singIn": "REGISTER",
+                "logIn": "ENTER."
+            },
+            "text": {
+                "agreeTerms1": "I have read and agree with ",
+                "agreeTerms2": "Terms of Use and Privacy Policy",
+                "text1": "Already have an account? ",
+                "text2": "or register with"
+            }
+        }
+    },
+    "Dashboard": {
+        "menuSideList": {
+            "myAccount": "My Account",
+            "publish": "Publish",
+            "logOut": "Logout"
+        },
+        "deleteDialog": {
+            "alert": {
+                "alert1": "Account deleted successfully.",
+                "alert2": "Unable to delete your account.",
+                "alert3": "Are you sure you want to delete your account?"
+            },
+            "text": "Your account will be permanently deleted and cannot be recovered. But you can create a new account at any time.",
+            "button": {
+                "cancel": "Cancel",
+                "delete": "Delete"
+            }
+        },
+        "myAccount": {
+            "alert": {
+                "alert1": "You are using an account registered with an external provider. Please login with your provider to change your data",
+                "alert2": "Name successfully changed.",
+                "alert3": "Unable to change name.",
+                "alert4": "Email changed successfully",
+                "alert5": "Unable to change email.",
+                "alert6": "Password successfully changed.",
+                "alert7": "Unable to change your password."
+            },
+            "personalInfo": {
+                "title": "Personal Information",
+                "name": {
+                    "textField": "Name",
+                    "button": "Edit Name"
+                },
+                "email": {
+                    "textField": "Email",
+                    "button": "Edit Email"
+                },
+                "password": {
+                    "textField": "Password",
+                    "button": "Edit Password"
+                }
+            },
+            "deleteAcc": {
+                "title": "Delete Account",
+                "text": "Your account will be permanently deleted and cannot be recovered. But you can create a new account at any time.",
+                "button": "Delete"
+            }
+        },
+        "publish": {
+            "alert": {
+                "alert1": "You do not have permission to create a post, please contact us.",
+                "alert2": "You need to fill in all the fields to create a post. Including an image."
+            },
+            "textField": {
+                "author": "Author",
+                "linkAuthor": "Author reference link",
+                "linkArticle": "Article reference link",
+                "title": "Title",
+                "text": "Write here..."
+            },
+            "button": {
+                "pickImg": "Pick Image",
+                "uploadImg": {
+                    "upload": "Upload image",
+                    "success": "Success"
+                },
+                "post": {
+                    "post": "Send post",
+                    "success": "Post Created"
+                }
+            }
+        }
+    },
+    "Home": {
+        "Hero": {
+            "title1": "CANNABIS HAS MANY USES",
+            "title2": "Which range from Medicinal, Industrial, Recreational and even Cultural",
+            "subtitle": "We work to Provide Information enabling awareness and discussion on the topic."
+        },
+        "Hub": {
+            "title1": "We seek to create a Community Interested in the Subject",
+            "title2": "People Willing to Be Part of this Project Acquiring a Unique NFT",
+            "subtitle": "This collection will be hosted on the Solana Blockchain and all proceeds will be used to support the creation of more quality content on cannabis, harm reduction, health research and more.",
+            "button": "Learn more"
+        },
+        "saudevaporDream": {
+            "title": "Our Mission",
+            "subtitle": "Awakening and Encouraging Critical Thinking about the Various Uses of Cannabis"
+        },
+        "infinityLoading": {
+            "text": "Can't find what you're looking for?",
+            "button": "Search here!"
+        },
+        "Articles": {
+            "title": "Check out our latest Articles",
+            "label": "SaudeVapor Blog"
+        }
+    },
+    "Login": {
+        "forgotPassword": {
+            "alert1": "Email sent successfully.",
+            "alert2": "Email not registered in our database.",
+            "title": "Edit Password",
+            "text": "Enter your email and a link will be sent to change your password. Thank you!",
+            "textField": "Email Address",
+            "button1": "Cancel",
+            "button2": "Send"
+        },
+        "alert": {
+            "alert1": "Login failed, check email and password.",
+            "alert2": "Failed to sign in with Google",
+            "alert3": "Failed to sign in with Google"
+        },
+        "form": {
+            "header": {
+                "title": "SaudeVapor Account",
+                "text": "One account for the entire SaudeVapor platform"
+            },
+            "textField": {
+                "email": "Email",
+                "password": "Password"
+            },
+            "button": {
+                "singIn": "SIGN UP.",
+                "logIn": "LOGIN"
+            },
+            "text": {
+                "agreeTerms1": "I have read and agree with ",
+                "agreeTerms2": "Terms of Use and Privacy Policy",
+                "text1": "Don't have an account? ",
+                "text2": "Forgot your password?",
+                "text3": "or enter with"
+            }
+        }
+    },
+    "NotFound": {
+        "title": "ERROR 404",
+        "text": "The page you are looking for has been moved, removed, renamed, or may never have existed.",
+        "button": "Go back to home page"
+    },
+    "Post": {
+        "post": {
+            "author": "Author: ",
+            "edit": "Edit",
+            "delete": "Delete"
+        },
+        "edit": {
+            "alert": {
+                "alert1": "Post edited successfully.",
+                "alert2": "You do not have permission to edit this post."
+            },
+            "text": "Edit Post",
+            "textField": {
+                "title": "Title",
+                "category": "Category",
+                "date": "Date",
+                "author": "Author",
+                "linkAuthor": "Link Author",
+                "urlImage": "Link image",
+                "text": "Text"
+            },
+            "button": {
+                "cancel": "Cancel",
+                "edit": "Edit"
+            }
+        },
+        "delete": {
+            "alert": {
+                "alert1": "Post deleted successfully.",
+                "alert2": "You do not have permission to delete this post."
+            },
+            "title": "Delete Post",
+            "text": "Are you sure you want to delete?",
+            "button": {
+                "cancel": "Cancel",
+                "delete": "Delete"
+            }
+        },
+        "fullArticle": {
+            "text": "To read the full article, please",
+            "button": " click here"
+        }
+    },
+    "Search": {
+        "textField": {
+            "input": "Search here...",
+            "select": {
+                "label": "Category",
+                "value1": "All categories",
+                "value2": "News",
+                "value3": "Articles"
+            }
+        },
+        "infinityLoading": {
+            "text": "Wow! You've seen it all."
+        }
+    },
+    "Terms": {
+        "title": "Terms and conditions of use of the SaudeVapor website",
+        "text": "<p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>Welcome to our website. Please read all terms below carefully.</span></p> <p><br></p> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>This document, and all the content of the website is offered by SaudeVapor, in this term represented only by &quot;COMPANY&quot;, which regulates all rights and obligations with everyone who accesses the website, referred to in this term as &quot;VISITOR&quot;, safeguarding all rights provided in the legislation, bring the clauses below as a requirement for accessing and visiting the same, located at www.SaudeVapor.com</span><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>.</span></p> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>Permanence on the website automatically implies the reading and tacit acceptance of these terms of use below. This term was last updated on February 02, 2022.</span></p> <p><br></p> <h3 dir='ltr' style='line-height:1.295;text-align: justify;margin-top:8pt;margin-bottom:8pt;'><span style='font-size:13pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>1. THE FUNCTION OF THE SITE</span></h3> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>This site was created and developed with the purpose of bringing high quality informative content, the sale of physical and digital products and the dissemination of the provision of service. The COMPANY seeks, through the creation of high quality content, developed by professionals in the field, to bring knowledge within the reach of all, as well as the dissemination of its own services.</span></p> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>On this platform, both the dissemination of high quality original material and the dissemination of e-commerce products can be carried out.</span></p> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>All content on this site was developed seeking reliable sources and materials, as well as being based on serious and respected studies, through high-level research.</span></p> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>All content is periodically updated, however, it may contain in an article, video or image, some information that does not reflect the current truth, and the COMPANY cannot be held responsible in any way or means for any content that is not properly updated.</span></p> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>It is the user&apos;s responsibility to use all the information present on the site with a critical sense, using it only as a source of information, and always seeking specialists in the area for the concrete solution of their conflict.</span></p> <p><br></p> <h3 dir='ltr' style='line-height:1.295;text-align: justify;margin-top:8pt;margin-bottom:8pt;'><span style='font-size:13pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>2. ACCEPTANCE OF THE TERMS</span></h3> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>This document, called &ldquo;Terms of Use&rdquo;, applicable to all visitors to the site, was developed by&nbsp;</span><a href='https://diegocastro.adv.br/' style='text-decoration:none;'><span style='font-size:11pt;font-family:Arial;color:#1155cc;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>Diego Castro</span></a><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>&nbsp;Advogado &ndash; OAB/PI 15.613, modified with permission for this site.</span></p> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>This term specifies and requires that every user, when accessing the COMPANY&apos;s website, reads and understands all its clauses, since it establishes between the COMPANY and the VISITOR rights and obligations between both parties, expressly accepted by the VISITOR to continue browsing the COMPANY website.</span></p> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>By continuing to access the website, the VISITOR expresses that he accepts and understands all the clauses, as well as fully agrees with each one of them, this acceptance being essential for his permanence in the same. If the VISITOR disagrees with any clause or term of this contract, he must immediately interrupt his navigation in all ways and means.</span></p> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>This term can and will be updated periodically by the COMPANY, which reserves the right to change it, without any kind of prior notice and communication. It is important that the VISITOR always checks if there was any movement and what was the last update of the same at the beginning of the page.</span></p> <p><br></p> <h3 dir='ltr' style='line-height:1.295;text-align: justify;margin-top:8pt;margin-bottom:8pt;'><span style='font-size:13pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>3. GLOSSARY</span></h3> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>This term may contain some specific words that may not be generally known. Among them:</span></p> <ul style='margin-top:0;margin-bottom:0;padding-inline-start:48px;'> <li aria-level='1' dir='ltr' style='list-style-type:disc;font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;'> <p dir='ltr' style='line-height:1.295;margin-top:12pt;margin-bottom:0pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>VISITORS:&nbsp;</span><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>Any and all users of the site, in any form and by any means, who access the company&apos;s website or platform through a computer, notebook, tablet, cell phone or any other means.</span></p> </li> <li aria-level='1' dir='ltr' style='list-style-type:disc;font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;'> <p dir='ltr' style='line-height:1.295;margin-top:0pt;margin-bottom:0pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>BROWSING:&nbsp;</span><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>The act of visiting pages and content on the company&apos;s website or platform.</span></p> </li> <li aria-level='1' dir='ltr' style='list-style-type:disc;font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;'> <p dir='ltr' style='line-height:1.295;margin-top:0pt;margin-bottom:0pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>COOKIES:</span><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>&nbsp;Small text files automatically generated by the website and transmitted to the visitor&apos;s browser, which serve to improve the visitor&apos;s usability.</span></p> </li> <li aria-level='1' dir='ltr' style='list-style-type:disc;font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;'> <p dir='ltr' style='line-height:1.295;margin-top:0pt;margin-bottom:0pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>LOGIN:</span><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>&nbsp;Visitor access data when registering with the COMPANY, divided between username and password, which gives access to restricted functions of the website.</span></p> </li> <li aria-level='1' dir='ltr' style='list-style-type:disc;font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;'> <p dir='ltr' style='line-height:1.295;margin-top:0pt;margin-bottom:0pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>HYPERLINKS:&nbsp;</span><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>These are clickable links that may appear on the website or in the content, which lead to another page of the COMPANY or external website.</span></p> </li> <li aria-level='1' dir='ltr' style='list-style-type:disc;font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;'> <p dir='ltr' style='line-height:1.295;margin-top:0pt;margin-bottom:12pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>OFFLINE:</span><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>&nbsp;When the website or platform is unavailable and cannot be accessed externally by any user.</span></p> </li> </ul> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>In case of doubts about any word used in this term, the VISITOR should contact the COMPANY through the communication channels found on the website.</span></p> <p><br></p> <h3 dir='ltr' style='line-height:1.295;text-align: justify;margin-top:8pt;margin-bottom:8pt;'><span style='font-size:13pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>4. ACCESS TO THE SITE</span></h3> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>The Site and platform work normally 24 (twenty-four) hours a day, however, there may be minor interruptions temporarily for adjustments, maintenance, change of servers, technical failures or by order of force majeure, which may make the site unavailable for a limited time.</span></p> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>The COMPANY is not responsible for any loss of opportunity or damage that this temporary unavailability may cause to users.</span></p> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>In case of maintenance that requires a longer time, the COMPANY will inform customers in advance of the need and the expected time in which the website or platform will be offline.</span></p> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>Access to the site is only allowed to those over 18 years of age or who have full civil capacity. For access by minors, the express authorization of parents or guardians is required, and they are responsible for any purchase or access made by them.</span></p> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>If it is necessary to register with the platform, where the VISITOR must fill out a form with their data and information, to have access to a restricted part, or to make a purchase.</span></p> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>All data are protected in accordance with the General Data Protection Law, and when registering with the website, the VISITOR fully agrees to the collection of data in accordance with the Law and the COMPANY&apos;s Privacy Policy.</span></p> <p><br></p> <h3 dir='ltr' style='line-height:1.295;text-align: justify;margin-top:8pt;margin-bottom:8pt;'><span style='font-size:13pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>5. LICENSE TO USE AND COPY</span></h3> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>The visitor will be able to access all the content of the website, such as articles, videos, images, products and services, not meaning any type of assignment of right or permission to use, or copying the same.</span></p> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>All rights are preserved, in accordance with Brazilian legislation, mainly in the Copyright Law (regulated in&nbsp;</span><a href='http://www.planalto.gov.br/ccivil_03/leis/l9610.htm' style='text-decoration:none;'><span style='font-size:11pt;font-family:Arial;color:#1155cc;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>Law No. 9.610/18</span></a><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>), as well as in the Brazilian Civil Code (regulated in&nbsp;</span><a href='http://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm' style='text-decoration:none;'><span style='font-size:11pt;font-family:Arial;color:#1155cc;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>Law No. 10.406/02</span></a><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>), or any other applicable legislation.</span></p> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>All content on the site is protected by copyright, and its use, copying, transmission, sale, assignment or resale must follow Brazilian law, with the COMPANY having all its rights reserved, and not allowing copying or use in any way. and a half, without its express written authorization.</span></p> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>The COMPANY may, in specific cases, occasionally allow exceptions to this right, which will be clearly highlighted in it, with the form and permission of use of the protected content. This right is revocable and limited to the specifics of each case.</span></p> <p><br></p> <h3 dir='ltr' style='line-height:1.295;text-align: justify;margin-top:8pt;margin-bottom:8pt;'><span style='font-size:13pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>6. OBLIGATIONS</span></h3> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>When using the COMPANY&apos;s website, the VISITOR fully agrees to:</span></p> <ul style='margin-top:0;margin-bottom:0;padding-inline-start:48px;'> <li aria-level='1' dir='ltr' style='list-style-type:disc;font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;'> <p dir='ltr' style='line-height:1.295;margin-top:12pt;margin-bottom:0pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>In no way or means carry out any type of action that tries to invade, hack, destroy or harm the structure of the COMPANY&apos;s website, platform or its commercial partners. Including, but not limited to, sending computer viruses, DDOS attacks, improper access due to failures of the same or any other form and means.</span></p> </li> <li aria-level='1' dir='ltr' style='list-style-type:disc;font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;'> <p dir='ltr' style='line-height:1.295;margin-top:0pt;margin-bottom:0pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>Not to make undue disclosure in the comments of the site of SPAM content, competing companies, viruses, content that does not have copyright or any other that is not relevant to the discussion of that text, video or image.</span></p> </li> <li aria-level='1' dir='ltr' style='list-style-type:disc;font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;'> <p dir='ltr' style='line-height:1.295;margin-top:0pt;margin-bottom:0pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>Prohibition to reproduce any content of the website or platform without express authorization, being liable civilly and criminally for the same.</span></p> </li> <li aria-level='1' dir='ltr' style='list-style-type:disc;font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;'> <p dir='ltr' style='line-height:1.295;margin-top:0pt;margin-bottom:12pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>With the Privacy Policy of the site, as well as the data related to the registration and visit on the site, and at any time and in any way, request their deletion, through the contact form.</span></p> </li> </ul> <p><br></p> <h3 dir='ltr' style='line-height:1.295;text-align: justify;margin-top:8pt;margin-bottom:8pt;'><span style='font-size:13pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>7. MONETIZATION AND ADVERTISING</span></h3> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>The COMPANY may rent or sell advertising spaces on the platform, or on the website, directly to advertisers, or through specialized companies such as Adsense (</span><a href='https://www.google.com/' style='text-decoration:none;'><span style='font-size:11pt;font-family:Arial;color:#1155cc;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>Google</span></a><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>), Taboola or other specialized platforms such as&nbsp;</span><a href='https://eletrocriticas.com/' style='text-decoration:none;'><span style='font-size:11pt;font-family:Arial;color:#1155cc;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>EletroCriticas.com</span></a></p> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>These advertisements do not mean no form of endorsement or responsibility for them, and the VISITOR is responsible for purchases, visits, accesses or any actions related to these companies.</span></p> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>All advertisements on the site or platform will be clearly highlighted as advertising, as a form of disclaimer by the COMPANY and the knowledge of the VISITOR.</span></p> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>These ads may be selected by the advertising company automatically, based on the VISITOR&apos;s recent visits, as well as based on their search history, in accordance with the platform&apos;s access policies.</span></p> <p><br></p> <h3 dir='ltr' style='line-height:1.295;text-align: justify;margin-top:8pt;margin-bottom:8pt;'><span style='font-size:13pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>8. GENERAL TERMS</span></h3> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>The Site will present hyperlinks throughout its navigation, which may lead directly to another page of the COMPANY or to external sites.</span></p> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>Although the COMPANY only creates links to external websites of extreme trust, if the user accesses an external website, the COMPANY has no responsibility for the medium, being a mere indication of content complementation, being the same responsible for the access, as well as for any actions that may be carried out on this website.</span></p> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>In the event of any legal disputes between the VISITOR and the COMPANY, the venue chosen for the due action will be that of the Company&apos;s district, even if there is a more privileged one.</span></p> <p dir='ltr' style='line-height:1.295;text-align: justify;margin-top:12pt;margin-bottom:8pt;'><span style='font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;'>This Term of Use is valid from February 02, 2022.</span></p> <p><br></p>"
+    }
+}
