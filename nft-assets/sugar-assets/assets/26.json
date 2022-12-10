@@ -1,0 +1,33 @@
+{
+  "name": "CannabisComponents #26",
+  "symbol": "CC",
+  "description": "Cannabis contains at least 49 active ingredients, or cannabinoids. Each of them can have various effects on the human body.",
+  "seller_fee_basis_points": 1,
+  "image": "26.png",
+  "edition": 26,
+  "attributes": [
+    {
+      "trait_type": "Compound",
+      "value": "Cannabinol-C2 (CBN-C2)"
+    },
+    {
+      "trait_type": "Therapeutic Benefits:",
+      "value": "Agent For Mental Diseases Especially Alzheimer’S Disease Alongside Other Neuro-Protective Issues"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "26.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "EuKk1SiTCXcJuvt2YLML3HutpCfknnpAC9FYtEHN2uNA",
+        "share": 100
+      }
+    ]
+  }
+}

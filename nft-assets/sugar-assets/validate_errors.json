@@ -1,0 +1,158 @@
+[
+  {
+    "path": "assets\\43.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\44.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\20.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\21.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\45.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\46.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\22.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\11.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\31.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\47.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\23.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\12.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\32.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\48.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\24.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\13.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\33.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\49.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\25.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\34.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\26.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\35.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\27.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\36.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\37.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\28.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\38.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\29.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\39.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\14.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\15.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\30.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\16.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\40.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\18.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\41.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\17.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\19.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  },
+  {
+    "path": "assets\\42.json",
+    "error": "missing field `attributes` at line 23 column 1"
+  }
+]

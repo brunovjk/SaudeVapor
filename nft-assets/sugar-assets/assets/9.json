@@ -1,0 +1,33 @@
+{
+  "name": "CannabisComponents #9",
+  "symbol": "CC",
+  "description": "Cannabis contains at least 49 active ingredients, or cannabinoids. Each of them can have various effects on the human body.",
+  "seller_fee_basis_points": 1,
+  "image": "9.png",
+  "edition": 9,
+  "attributes": [
+    {
+      "trait_type": "Compound",
+      "value": "Cannabidiolic Acid (CBDA)"
+    },
+    {
+      "trait_type": "Therapeutic Benefits:",
+      "value": "Control Moods, Feelings Of Nausea, Vomiting, And Intestinal Regulation"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "EuKk1SiTCXcJuvt2YLML3HutpCfknnpAC9FYtEHN2uNA",
+        "share": 100
+      }
+    ]
+  }
+}

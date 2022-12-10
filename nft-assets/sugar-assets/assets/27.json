@@ -1,0 +1,33 @@
+{
+  "name": "CannabisComponents #27",
+  "symbol": "CC",
+  "description": "Cannabis contains at least 49 active ingredients, or cannabinoids. Each of them can have various effects on the human body.",
+  "seller_fee_basis_points": 1,
+  "image": "27.png",
+  "edition": 27,
+  "attributes": [
+    {
+      "trait_type": "Compound",
+      "value": "Cannabinol-C4 (CBN-C4)"
+    },
+    {
+      "trait_type": "Therapeutic Benefits:",
+      "value": "Mild Psychotropic May Stimulate Bone Growth, Anesthetic, Anti-Convulsive, Analgesic, Anti-Anxiety"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "27.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "EuKk1SiTCXcJuvt2YLML3HutpCfknnpAC9FYtEHN2uNA",
+        "share": 100
+      }
+    ]
+  }
+}

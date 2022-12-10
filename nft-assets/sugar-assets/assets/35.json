@@ -1,0 +1,33 @@
+{
+  "name": "CannabisComponents #35",
+  "symbol": "CC",
+  "description": "Cannabis contains at least 49 active ingredients, or cannabinoids. Each of them can have various effects on the human body.",
+  "seller_fee_basis_points": 1,
+  "image": "35.png",
+  "edition": 35,
+  "attributes": [
+    {
+      "trait_type": "Compound",
+      "value": "Delta-8-tetrahydrocannabinol (d8THC, Δ8-THC)"
+    },
+    {
+      "trait_type": "Therapeutic Benefits:",
+      "value": "Mildly Psychoactive, Reduction Of Thc Psychoactive Effects, Entourage Effect"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "35.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "EuKk1SiTCXcJuvt2YLML3HutpCfknnpAC9FYtEHN2uNA",
+        "share": 100
+      }
+    ]
+  }
+}

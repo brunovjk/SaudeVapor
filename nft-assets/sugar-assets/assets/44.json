@@ -1,0 +1,33 @@
+{
+  "name": "CannabisComponents #44",
+  "symbol": "CC",
+  "description": "Cannabis contains at least 49 active ingredients, or cannabinoids. Each of them can have various effects on the human body.",
+  "seller_fee_basis_points": 1,
+  "image": "44.png",
+  "edition": 44,
+  "attributes": [
+    {
+      "trait_type": "Compound",
+      "value": "TriHydroxy-delta-9-tetrahydrocannabinol (TRIOH-THC)"
+    },
+    {
+      "trait_type": "Therapeutic Benefits:",
+      "value": "Psychoactive Ability, And They Are Administered To Treat Neurological Deficiencies"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "44.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "EuKk1SiTCXcJuvt2YLML3HutpCfknnpAC9FYtEHN2uNA",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "CannabisComponents #29",
+  "symbol": "CC",
+  "description": "Cannabis contains at least 49 active ingredients, or cannabinoids. Each of them can have various effects on the human body.",
+  "seller_fee_basis_points": 1,
+  "image": "29.png",
+  "edition": 29,
+  "attributes": [
+    {
+      "trait_type": "Compound",
+      "value": "Cannabinol Methyl ether (CBNM-C5)"
+    },
+    {
+      "trait_type": "Therapeutic Benefits:",
+      "value": "Reducing Vomiting And Nausea,  Improving Sleep, Neuropathic Pain"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "29.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "EuKk1SiTCXcJuvt2YLML3HutpCfknnpAC9FYtEHN2uNA",
+        "share": 100
+      }
+    ]
+  }
+}

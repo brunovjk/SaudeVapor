@@ -1,0 +1,24 @@
+{
+  "price": 1,
+  "number": 50,
+  "symbol": "CC",
+  "sellerFeeBasisPoints": 1,
+  "gatekeeper": null,
+  "solTreasuryAccount": "EuKk1SiTCXcJuvt2YLML3HutpCfknnpAC9FYtEHN2uNA",
+  "splTokenAccount": null,
+  "splToken": null,
+  "goLiveDate": "2022-02-02T02:02:02Z",
+  "endSettings": null,
+  "whitelistMintSettings": null,
+  "hiddenSettings": null,
+  "uploadMethod": "bundlr",
+  "awsS3Bucket": null,
+  "retainAuthority": true,
+  "isMutable": true,
+  "creators": [
+    {
+      "address": "EuKk1SiTCXcJuvt2YLML3HutpCfknnpAC9FYtEHN2uNA",
+      "share": 100
+    }
+  ]
+}
